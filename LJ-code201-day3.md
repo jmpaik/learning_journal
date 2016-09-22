@@ -2,7 +2,7 @@
 
 Michael's log 9/21/2016
 
-Non-Technical Material Learned:
+Non-Technical Material Learned: None.
 
 Technical Material Learned: A majority of websites are ordered or unordered lists in HTML. I was never aware of this. 
 
